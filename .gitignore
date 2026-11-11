@@ -1,0 +1,19 @@
+# IDE и редакторы
+.idea/
+.vscode/
+*.iml
+*.swp
+
+# Системные файлы ОС
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Логи и временные файлы
+*.log
+*.tmp
+.cache/
+
+# Переменные окружения (на будущее)
+.env
+.env.local
